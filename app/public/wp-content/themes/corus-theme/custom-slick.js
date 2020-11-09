@@ -18,9 +18,12 @@ $(document).ready(function(){
         variableWidth: true
     });
 
+    // used for the button trigger
     $("button").click(function(){
         $('#slider-view').toggleClass('hidden');
         $('#slider-view2').toggleClass('hidden');
+        $('.btn').toggleClass('btn-primary');
+        $('.btn').toggleClass('btn-dark');
     });
 
 });
