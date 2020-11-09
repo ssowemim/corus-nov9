@@ -1,3 +1,14 @@
+<?php
+/**
+ * single-gallery
+ *
+ * How all gallery pages on the website are viewed
+ *
+ * @package Corus-Theme
+ */
+
+?>
+
 <?php get_header(); ?>
 
 <div class="container"> 
