@@ -10,6 +10,7 @@ Assignment for the Corus Entertainment for WP Dev Role.
   - Simple programming Logic
   - Working with Slick Slider
 
+Live Demo
 * [Video Demo v1] - Quick Demo of how it should look like on the main website page
 
 
