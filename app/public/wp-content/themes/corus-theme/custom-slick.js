@@ -19,7 +19,7 @@ $(document).ready(function(){
     });
 
     // used for the button trigger
-    $("button").click(function(){
+    $("#btn-toggle").click(function(){
         $('#slider-view').toggleClass('hidden');
         $('#slider-view2').toggleClass('hidden');
         $('.btn').toggleClass('btn-primary');

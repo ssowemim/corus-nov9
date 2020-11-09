@@ -50,7 +50,7 @@
 
     </div>
 
-    <button class="btn btn-dark">Switch</button>
+    <button id="btn-toggle" class="btn btn-dark">Switch</button>
 </div>
 
 <?php get_footer(); ?>
